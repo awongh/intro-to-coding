@@ -1,20 +1,20 @@
-# Akira Wong
-# Web Developer
+# Accutron
+# Uber for Cats
 
 # about
-I like building things for the web. Also, cats. Teaching at General Assembly is fun - https://generalassemb.ly
+Get a cat, anytime. Sign Up Now.
 
-# skills
-Below are coding languages I know the best, starting with:
-1. HTML
-2. CSS
-3. JavaScript (and not Java!)
+# features
+Fast easy access to your favorite cats.
+1. Inexpensive
+2. Great Cats
+3. Cuddles
 
-# hobbies
-I enjoy the following in my spare time:
-- Cycling
-- Curry Puffs
-- Cats
+# Pricing
+Get your own now!
+- Unlimited Cats: $199.99
+- Weekly Cats: $99.99
+- Monthly Cats: $23.76
 
 # follow
 - Facebook icon
