@@ -1,6 +1,9 @@
-How to use text edit to make code:
+# Intro to Coding
+
+How to use OSX text edit to make code:
 https://gph.is/2r05jTJ
 
-# Intro to Coding
+Link to slides: https://goo.gl/zBiUwY
+
 
 ![](sample.png)
