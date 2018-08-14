@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	background-color: pink;
+	font-size:18px;
+	font-family: Helvetica;
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/funky-lines.png");
+}
+
+h1{
+	font-size:35px;
+	letter-spacing: 2px;
+}
+
+
+.header{
+	margin:30px;
+	padding:20px;
+	border: 10px solid black;
+	text-align: center;
+}
+
+.skills{
+	background-color: white;
+	padding:30px;
+
+}
+
+.hobbies{
+	padding:30px;
+}
+
+img{
+	width: 150px;
+}
+
+
+
+
+
+
+
+
