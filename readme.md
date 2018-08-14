@@ -5,5 +5,4 @@ https://gph.is/2r05jTJ
 
 Link to slides: https://goo.gl/zBiUwY
 
-
 ![](sample.png)
